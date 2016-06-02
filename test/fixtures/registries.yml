@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone_number: MyString
+  cat_1: false
+  cat_2: false
+  cat_3: false
+  cat_4: false
+  cat_5: false
+  cat_6: false
+  cat_7: false
+  all: false
+
+two:
+  phone_number: MyString
+  cat_1: false
+  cat_2: false
+  cat_3: false
+  cat_4: false
+  cat_5: false
+  cat_6: false
+  cat_7: false
+  all: false
